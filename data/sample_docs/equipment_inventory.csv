@@ -1,0 +1,16 @@
+ID,Name,Type,Location,Status,Criticality,Install_Date,Manufacturer,Model,Last_Inspection
+EQ-001,Boiler B-101,Boiler,Unit-2,Operational,CRITICAL,2022-03-15,Thermax,TB-500,2025-06-01
+EQ-002,Pump P-101,Centrifugal Pump,Unit-2,Operational,HIGH,2021-11-20,Kirloskar,CP-250,2025-05-15
+EQ-003,Pump P-102,Centrifugal Pump,Unit-2,Maintenance,HIGH,2022-01-10,Kirloskar,CP-250,2025-04-20
+EQ-004,Compressor C-201,Air Compressor,Utility-Block,Operational,HIGH,2023-02-28,Atlas Copco,GA-160,2025-06-10
+EQ-005,Tank T-101,Storage Tank,Unit-2,Operational,MEDIUM,2021-08-05,Matrix,POLY-5000,2025-03-01
+EQ-006,Heat Exchanger HX-101,Shell & Tube,Unit-2,Operational,HIGH,2022-06-15,L&T,MOC-300,2025-05-30
+EQ-007,Turbine TG-301,Steam Turbine,Power-Block,Operational,CRITICAL,2020-12-01,GE,ST-45,2025-04-15
+EQ-008,Conveyor CV-401,Belt Conveyor,Material-Handling,Operational,MEDIUM,2023-05-10,FLSmidth,BC-1200,2025-02-20
+EQ-009,Valve V-101,Control Valve,Unit-2,Operational,MEDIUM,2022-09-01,Fisher,ED-200,2025-06-05
+EQ-010,Transformer TR-301,Power Transformer,Substation,Operational,CRITICAL,2021-03-20,CGL,33kV-5MVA,2025-01-15
+EQ-011,Fan F-201,FD Fan,Boiler-Unit,Operational,MEDIUM,2022-04-01,FLakt,AF-150,2025-05-20
+EQ-012,Filter FL-101,Bag Filter,Dust-Collection,Operational,LOW,2023-08-15,Donaldson,DFT-48,2025-04-10
+EQ-013,Cooling Tower CT-201,Induced Draft,Cooling-Tower,Operational,HIGH,2021-07-01,Paharpur,IDT-200,2025-06-12
+EQ-014,Generator G-301,Steam Turbine Generator,Power-Block,Operational,CRITICAL,2020-12-01,BHEL,STG-25,2025-03-20
+EQ-015,Analyzer A-101,Gas Analyzer,Unit-2,Operational,MEDIUM,2024-01-10,Siemens,U6,2025-06-08
